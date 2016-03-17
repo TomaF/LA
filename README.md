@@ -1,4 +1,4 @@
-## Homeworks for the Linear Algebra course
+## My homeworks for the [Linear Algebra](https://github.com/oseledets/nla2015) course.
 
 [hw1](hw1.ipynb): Convolution of a signal, Gram-Schmidt algorithm + theory   
 
