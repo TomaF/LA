@@ -7,3 +7,6 @@
 [hw3](hw3.ipynb): QR factorization using Housholder reflections and the modified Gram-Schimdt algorithm, Gram-Schimdt algorithm vs modified Gram-Schimdt algorithm, Simple English Wiki, a face classifier, a recommender systems with SVD + theory
 
 [hw4](hw4.ipynb):  Krylov method for an image reconstruction, Tikhonov regularization + theory
+
+[final project](berkely.ipynb): [Contour Detection](http://www.cs.berkeley.edu/~arbelaez/publications/amfm_pami2011.pdf). Globalization part has not yet been completed. 
+ 
